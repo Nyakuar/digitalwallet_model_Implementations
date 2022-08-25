@@ -1,5 +1,3 @@
-# from re import A, L, T
-# from tkinter import N, W
 from .models import Customer
 from .models import Wallet
 from .models import Transaction
